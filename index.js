@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Codeforces与洛谷题目链接跳转
-// @namespace    https://github.com/yunfeidog
+// @namespace    https://github.com/yunfeidog/CodeforcesToLuogu
 // @version      1.0
 // @description  try to take over the world!
 // @author       dogyunfei

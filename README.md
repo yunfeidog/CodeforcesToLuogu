@@ -9,6 +9,7 @@
 codeforces直接获取元素，然后添加按钮即可，
 
 洛谷需要等待页面全部加载完成，才能获取到页面的元素，然后再去添加按钮跳转。
+脚本链接：https://greasyfork.org/zh-CN/scripts/465489-codeforces%E4%B8%8E%E6%B4%9B%E8%B0%B7%E9%A2%98%E7%9B%AE%E9%93%BE%E6%8E%A5%E8%B7%B3%E8%BD%AC
 
 ## 参考页面如下：
 
